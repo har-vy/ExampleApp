@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Chelsea">
+    <item>Kepa Arizzabalaga</item>
+    <item>Cesar Azpilicueta</item>
+    <item>David Luiz</item>
+    <item>Antonio Rudiger</item>
+    <item>Marcos Alonso</item>
+    <item>Jorginho</item>
+    <item>N'Golo Kante</item>
+    <item>Mateo Kovacic</item>
+    <item>Eden Hazard</item>
+    <item>Willian</item>
+    <item>Alvaro Morata</item>
+</string-array>
+
+<string-array name="descriptions">
+ <item>World's most expensive goalkeeper from Athletic Bilbao</item>
+  <item>Spanish International, Most consistent defender</item>
+  <item>Ball playing center-half</item>
+    <item>Strong motherfucker</item>
+    <item>Attack minded wingback</item>
+    <item>Chelsea's very own sniper</item>
+    <item>Most hard working player in the world</item>
+    <item>New exciting loan from Real Madrid</item>
+    <item>World's best player</item>
+    <item> Almost Manchester United bound</item>
+    <item>Misfiring motherfucker</item>
+</string-array>
+
+</resources>
